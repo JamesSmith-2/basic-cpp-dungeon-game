@@ -1,0 +1,14 @@
+This is intended to be a text-based video game similar to the idea of a 5-room dungeon in Dungeons and Dragons
+Beginning with the character selection and player integration
+Then into a small cutscene of the adventurers walking into the dungeon and entering the first room
+Print out the description of the first room
+Then, randomly select one of three other rooms
+Enter and describe those rooms
+Two of which will have combat, (one small and one medium)
+One will be a rest and Looting room
+Then enter the boss room
+
+(Combat akin to Undertale, text-based)
+
+Combat with the boss
+Every room will have multiple interactable things, such as a wardrobe or chests.

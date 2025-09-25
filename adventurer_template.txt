@@ -1,0 +1,4 @@
+Character Name: Adventurer Template
+Character Stats: STR, CON, DEX, INT, WIS, CHA
+Character Inventory: Item Struct(s)
+Character Abilities: Spell(s)? Skills(s)?
